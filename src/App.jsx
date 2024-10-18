@@ -6,7 +6,7 @@ import CartPage from './pages/CartPage';
 import AuthenticationPage from './pages/AuthenticationPage';
 import OrderPlacingPage from './pages/OrderPlacingPage';
 import OrdersPage from './pages/OrdersPage';
-import Navbar from './components/Navbar';
+import Navbar from './components/NavBar';
 import { AuthProvider } from './store/authContext';
 import { CartProvider } from './store/cartContext';
 import { OrderProvider } from './store/orderContext';
